@@ -1,3 +1,8 @@
+# Personal note
+I created this application because it solves a personal problem with the Spotify roster, where things like in-game songs, niché remixes or instrumentals simply aren't available on the app for the most part.
+Other than that i just did it because i love developing apps and websites.
+AI was used in the proccess of making this project as it's efficient and the Javascript is quite complex.
+
 # Spotify Directory Audio Utility
 
 A desktop application designed to fetch audio streams from Youtube and save them into a local directory. 
