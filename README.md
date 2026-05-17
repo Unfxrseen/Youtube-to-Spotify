@@ -22,7 +22,6 @@ Built with Electron, this utility automates the process of downloading media, pa
 1. Navigate to the Releases section of this repository.
 2. Download the installer executable.
 3. Run the installer to complete the setup process.
-4. Set the target destination folder, input the URL, and execute the download.
 
 > **Note on Windows SmartScreen:** Because this installer is unsigned and bundles the yt-dlp binary, Windows Defender or web browsers may flag the file as unrecognized or untrusted. Users must select "More Info" and then "Run Anyway" to proceed with the installation.
 
