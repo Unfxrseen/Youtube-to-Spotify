@@ -26,4 +26,4 @@ Built with Electron, this utility automates the process of downloading media, pa
 - **Framework:** Electron, Node.js, HTML, CSS, JavaScript
 - **Dependencies:** yt-dlp, browser-id3-writer
 ## License
-This project is proprietary. See the [LICENSE](LICENSE) file for usage terms.
+This project is proprietary. See the [LICENSE](LICENSE.txt) file for usage terms.
