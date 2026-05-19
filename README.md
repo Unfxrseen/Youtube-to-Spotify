@@ -5,7 +5,7 @@ AI was used in the proccess of making this project as it's efficient and the Jav
 
 # Spotify Directory Audio Utility
 
-A desktop application designed to fetch audio streams from Youtube and save them into a local directory. 
+A desktop application designed to fetch audio streams from Youtube and Soundcloud (for now) and save them into a local directory. 
 
 Built with Electron, this utility automates the process of downloading media, parsing metadata, and writing ID3 tags to the output files.
 
